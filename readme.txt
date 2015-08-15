@@ -1,4 +1,2 @@
-Git is a distributed version control system 
-Git is free software
-Git has a mutable index called stage
-I am cindy
+‘Á…œ∫√ 
+creating a new branch is quick
